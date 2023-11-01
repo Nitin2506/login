@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1440px;
+height: 1035px;
+flex-shrink: 0;
+    /* background-color: black; */
+}
+
+.img-control{
+    margin-left: 130px;
+    width: 720px;
+height: 830px;
+flex-shrink: 0;
+background-color: #000;
+}
+
+div img{
+   margin-left: 100px;
+    width: 505.575px;
+    height: 551.89px;
+    flex-shrink: 0;
+color: #000;
+}
+
+
+.container{
+    display: flex;
+    /* align-items: center; */
+    width: 1440px;
+    height: 1035px;
+    flex-shrink: 0;
+}
+
+.cont1{
+    align-items: center;
+    margin-top: 12%;
+    margin-left: 50px;
+    /* display: flex;
+    flex-direction: column; */
+    width: 450px;
+    height: 480px;
+    flex-shrink: 0;
+    }
+
+.heading{
+   color: #000;
+
+font-family: Red Rose;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+
+
+
+#pass{
+    width: 94px;
+height: 23px;
+flex-shrink: 0;
+
+    color: #6E6E6E;
+font-family: Red Rose;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.check{
+    color: #9C9C9C;
+
+text-align: center;
+font-family: Red Rose;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.forget{
+    color: #9C9C9C;
+
+text-align: center;
+font-family: Red Rose;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+}
+
+.btn{
+    border-radius: 6px;
+    background: #000;
+    color: #FFF;
+font-family: Red Rose;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+width: 450px;
+height: 55px;
+flex-shrink: 0;
+}
+
+#name{
+    margin-top: 10px;
+    display:flex;
+    flex-direction: row;
+    border-radius: 6px;
+    border: 1px solid #000;
+    width: 450px;
+height: 55px;
+flex-shrink: 0;
+
+}
+    
+.inp{
+    margin-top:15px ;
+    margin-left: 10px;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    color: #6E6E6E;
+font-family: Red Rose;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.svg{
+margin-left: 5px;
+    margin-top: 18px;
+    width: 20px;
+height: 16px;
+flex-shrink: 0;
+}
+
+.check{
+    left: 0px;
+}
